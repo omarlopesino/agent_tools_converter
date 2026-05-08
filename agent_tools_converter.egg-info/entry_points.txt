@@ -1,0 +1,2 @@
+[console_scripts]
+agent-tools-converter = agent_tools_converter.cli:main
